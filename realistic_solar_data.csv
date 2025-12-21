@@ -1,0 +1,26 @@
+Timestamp,Power_Output(kW),Irradiance(W/m2),Temperature(C),Humidity(%),Dust_Level(%),Voltage(V),Current(A),Efficiency(%),Maintenance_Status,Maintenance_Description
+2024-01-01 06:00:00,15.2,125.3,22.5,58.1,25.4,235.1,0.06,65.2,Not Required,Normal operation
+2024-01-01 09:00:00,325.8,920.4,28.9,62.3,28.7,230.5,1.41,82.5,Not Required,Normal operation
+2024-01-01 12:00:00,485.6,1050.2,31.2,48.5,32.1,228.3,2.13,88.5,Not Required,Normal operation
+2024-01-01 15:00:00,365.3,825.8,29.8,42.1,35.8,225.7,1.62,84.8,Not Required,Normal operation
+2024-01-01 18:00:00,85.2,280.5,26.4,45.2,38.9,220.1,0.39,72.2,Not Required,Normal operation
+2024-01-02 06:00:00,12.8,102.1,23.8,59.2,42.3,234.8,0.05,62.8,Not Required,Normal operation
+2024-01-02 09:00:00,298.5,895.2,29.5,63.1,45.6,228.9,1.30,78.8,Warning,Efficiency slightly declining
+2024-01-02 12:00:00,465.2,1065.8,32.1,49.8,48.2,226.1,2.06,83.9,Warning,Monitor dust levels
+2024-01-02 15:00:00,348.7,889.4,30.5,43.2,52.1,223.4,1.56,81.2,Warning,Cleaning recommended
+2024-01-02 18:00:00,72.1,274.2,27.1,46.8,55.4,218.7,0.33,68.1,Warning,Schedule maintenance
+2024-01-03 06:00:00,8.9,88.7,24.1,60.5,65.8,233.2,0.04,58.5,Required,High dust accumulation
+2024-01-03 09:00:00,245.2,825.1,30.2,64.8,68.9,225.3,1.09,72.2,Required,Efficiency below threshold
+2024-01-03 12:00:00,385.4,980.5,33.8,52.4,72.1,223.8,1.72,75.8,Required,Immediate cleaning needed
+2024-01-03 15:00:00,298.5,778.2,31.1,45.6,75.8,221.1,1.35,74.1,Required,Performance degradation
+2024-01-03 18:00:00,55.8,258.9,28.2,48.5,78.9,216.4,0.26,64.8,Required,Critical maintenance required
+2024-01-04 06:00:00,16.1,128.9,22.3,56.8,15.2,236.4,0.07,68.8,Not Required,Post-maintenance - excellent
+2024-01-04 09:00:00,342.6,985.3,28.7,59.4,18.1,232.8,1.48,85.1,Not Required,Performance restored
+2024-01-04 12:00:00,520.8,1120.6,29.8,46.2,21.4,230.5,2.27,90.2,Not Required,Operating optimally
+2024-01-04 15:00:00,385.9,898.7,28.5,40.1,24.8,227.9,1.70,87.5,Not Required,Excellent efficiency
+2024-01-04 18:00:00,88.7,295.3,25.1,43.8,27.9,222.6,0.40,75.8,Not Required,Normal evening operation
+2024-01-05 06:00:00,14.5,115.2,23.1,57.5,22.1,235.8,0.06,66.5,Not Required,Morning startup
+2024-01-05 09:00:00,335.2,965.8,29.2,61.2,24.5,231.2,1.45,84.2,Not Required,Good performance
+2024-01-05 12:00:00,498.3,1085.4,30.5,47.8,26.8,229.1,2.18,89.1,Not Required,Peak efficiency
+2024-01-05 15:00:00,372.8,875.3,29.1,41.5,29.2,226.5,1.65,86.3,Not Required,Stable operation
+2024-01-05 18:00:00,82.4,285.7,26.2,44.5,31.5,221.3,0.37,73.5,Not Required,Evening decline
